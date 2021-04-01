@@ -12,7 +12,5 @@
 
 # Some stats!
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=prestonf136)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestonf136&layout=compact" />
-</a>
+<br />
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prestonf136&layout=compact]
