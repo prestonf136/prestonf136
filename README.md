@@ -12,4 +12,7 @@
 
 # Some stats!
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=prestonf136)](https://github.com/anuraghazra/github-readme-stats)
-![most used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=prestonf136&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prestonf136" />
+</a>
