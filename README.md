@@ -10,5 +10,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "There are only two kinds of languages: the ones people complain about and the ones nobody uses" -Bjarne Stroustrup
 
-# my stats because everyone loves them
+# Some stats!
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=prestonf136)](https://github.com/anuraghazra/github-readme-stats)
